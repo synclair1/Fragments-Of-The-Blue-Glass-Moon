@@ -1,0 +1,6 @@
+To make sure this game runs properly please!
+
+1. Go to your desktop 
+2. Make an empty folder called "FinalProject" (minus the inverted commas :p)
+3. Move all pictures (and the game html file itself) there if you want
+4. Play the game!
